@@ -1,0 +1,42 @@
+@media screen and (max-width: 479px) {
+  .wrapper {
+    width: 200px;
+  }
+
+.header {
+  height: 200px;
+}
+
+.head-box {
+  left: 70px;
+}
+
+.p-box {
+  float: none;
+  margin: 10px;
+}
+
+  .left {
+    width: 200px;
+    height: 100px;
+    float: none;
+  }
+
+  .right {
+    width: 200px;
+    height: 180px;
+    float: none;
+    position: relative;
+  }
+
+  .right-box {
+    position: absolute;
+    top: 20px;
+    left: 30px;
+    margin: 0;
+  }
+
+  .child {
+    box-sizing: border-box;
+  }
+}
