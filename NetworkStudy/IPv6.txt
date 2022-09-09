@@ -1,0 +1,15 @@
+/Users/unclear/Desktop/
+
+⑴AAAA.AAAA.AAAA
+
+=A8 AA AA FF FE AA AA AA
+
+
+⑵9876.5432.10FE
+
+=9A 76 54 FF FE 32 10 FE
+
+
+⑶FFFF.FFFF.FFFF
+
+=FD FF FF FF FE FF FF FF
